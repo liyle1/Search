@@ -222,10 +222,10 @@ body { margin: 0; }
 
 .s3 .a01 {	
   width: 80%;
-  height: 50%;  
+  height: 40%;  
+  top:10%;
   left: 50%;
 	margin-left: -40%;
-	margin-top: -80%;
   background-image: url(../images/t3-2.png);
   background-repeat: no-repeat;
   background-position: center; 0;
@@ -234,8 +234,7 @@ body { margin: 0; }
 .s3 .a02 {
 	width: 60%;
   height: 30%;
-  top: 9.5%;
-  margin-top: 90%;
+  margin-top: 10%;
   margin-left: -30%;
   background: url(../images/t3-1.png);
 	background-repeat: no-repeat;
@@ -293,7 +292,7 @@ body { margin: 0; }
 	width: 60%;
 	height: 50%;
 	margin-left: -20%;
-	margin-top: -70%;
+	margin-top: -60%;
 	background-image: url(../images/t5-2.png);
 	background-position: center 0;
 	-webkit-background-size: contain;
@@ -403,7 +402,7 @@ body { margin: 0; }
 	width: 70%;
 	height: 40%;
 	margin-left: -33%;
-	margin-top: -74%;
+	margin-top: -70%;
 	background-image: url(../images/t8-2.png);
 	background-position: center 0;
 	-webkit-background-size: contain;
